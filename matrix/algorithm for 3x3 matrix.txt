@@ -1,0 +1,10 @@
+Algorithm for 3x3 matrix
+
+
+3x3 Matrix Algorithm:
+
+Initialize a 3x3 matrix with any values.
+Create a for loop that iterates through each row of the matrix.
+Within the for loop, create a nested for loop that iterates through each column of the matrix.
+Within the nested for loop, access the current element by its row and column indices and perform any desired operation on it.
+Continue iterating through the matrix until all elements have been processed.
